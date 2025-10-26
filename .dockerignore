@@ -1,0 +1,11 @@
+# Exclure du build context
+.mvn/
+*.log
+.git/
+.github/
+.idea/
+.vscode/
+README.md
+Dockerfile
+docker-compose.yml
+```
