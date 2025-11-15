@@ -31,7 +31,7 @@ jobs:
       - name: Build with Maven
         run: mvn clean package -DskipTests
 
-      # 4. Lancer les tests
+      # 4. Lancer les tests : Ce sont des tests unitaires Java (JUnit),Créés par Spring Boot,sous le dossier test
       - name: Run Tests
         run: mvn test
 
