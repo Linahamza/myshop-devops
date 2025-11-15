@@ -3,7 +3,7 @@
 API REST de gestion de catalogue produits développée avec Spring Boot, incluant un pipeline CI/CD automatisé avec GitHub Actions.
 
 <!-- Badges de statut CI/CD -->
-![CI/CD Pipeline](https://github.com/Linahamza/myshop-devops/workflows/CI%2FCD%20Pipeline/badge.svg)
+[![CI/CD Pipeline](https://github.com/Linahamza/myshop-devops/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Linahamza/myshop-devops/actions/workflows/ci-cd.yml)
 ![Docker Image Size](https://img.shields.io/docker/image-size/linahamza/myshop-api/latest)
 ![Docker Pulls](https://img.shields.io/docker/pulls/linahamza/myshop-api)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
